@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as a,a4 as t}from"./chunks/framework.Mj8dOX4M.js";const u=JSON.parse('{"title":"常用网站导航","description":"","frontmatter":{},"headers":[],"relativePath":"tips/网站资源.md","filePath":"tips/网站资源.md"}'),l={name:"tips/网站资源.md"},i=t("",14),o=[i];function n(h,s,f,c,g,p){return a(),r("div",null,o)}const _=e(l,[["render",n]]);export{u as __pageData,_ as default};
